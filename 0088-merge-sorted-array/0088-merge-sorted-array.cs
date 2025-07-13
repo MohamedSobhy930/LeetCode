@@ -1,21 +1,9 @@
 public class Solution {
     public void Merge(int[] nums1, int m, int[] nums2, int n) {
-        int index = m+n-1, i = m-1 , j = n-1;
-        while(i >= 0 && j >= 0)
+        for(int i = m, j = 0 ; j < n  ; i++, j++)
         {
-            if(nums1[i] > nums2[j])
-            {
-                nums1[index--] = nums1[i--];
-            }
-            else
-            {
-                nums1[index--] = nums2[j--];
-            }
+            nums1[i] = nums2[j];
         }
-        while(j >= 0)
-        {
-            nums1[index--] = nums2[j--];
-        }
-        
+        Array.Sort(nums1);
     }
 }
