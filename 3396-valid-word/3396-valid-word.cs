@@ -22,9 +22,11 @@ public class Solution {
                 constCount++;
             }
         }
+        else 
+        {
+            return false;
+        }
        } 
-       if(count == word.Length && vowelCount > 0 && constCount > 0)
-            return true;
-        return false;
+       return count == word.Length && vowelCount > 0 && constCount > 0 ;
     }
 }
