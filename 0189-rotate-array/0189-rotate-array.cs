@@ -1,13 +1,18 @@
 public class Solution {
     public void Rotate(int[] nums, int k) {
         int n = nums.Length;
-        int index = 0 ;
         k %= n;
-        int[] arr = new int[nums.Length];
-        for(int i = n -k ; i < 2* n - k ; i++ )
+        Reverse(nums, n-k , n-1);
+        Reverse(nums,0 , n - k-1);
+        Reverse(nums, 0 , n -1);
+    }
+    public void Reverse(int[] arr ,int start ,int end)
+    {
+        while(start < end)
         {
-            arr[index++] = nums[i % n];
+        int temp = arr[start];
+        arr[start++] = arr[end];
+        arr[end--] = temp;
         }
-        Array.Copy(arr,nums,n);
     }
 }
