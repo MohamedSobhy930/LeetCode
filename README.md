@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MohamedSobhy930/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedSobhy930/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/MohamedSobhy930/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0189-rotate-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohamedSobhy930/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedSobhy930/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
