@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3396-valid-word](https://github.com/MohamedSobhy930/LeetCode/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
