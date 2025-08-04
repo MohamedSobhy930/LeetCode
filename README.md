@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MohamedSobhy930/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/MohamedSobhy930/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohamedSobhy930/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohamedSobhy930/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/MohamedSobhy930/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohamedSobhy930/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
