@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3790-fruits-into-baskets-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,4 +167,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
