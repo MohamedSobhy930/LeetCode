@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/MohamedSobhy930/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohamedSobhy930/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedSobhy930/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MohamedSobhy930/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohamedSobhy930/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohamedSobhy930/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedSobhy930/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3830-find-closest-person](https://github.com/MohamedSobhy930/LeetCode/tree/master/3830-find-closest-person) |
