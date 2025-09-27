@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MohamedSobhy930/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/MohamedSobhy930/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohamedSobhy930/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0830-largest-triangle-area](https://github.com/MohamedSobhy930/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MohamedSobhy930/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedSobhy930/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohamedSobhy930/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0830-largest-triangle-area](https://github.com/MohamedSobhy930/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohamedSobhy930/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1448-maximum-69-number) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MohamedSobhy930/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/MohamedSobhy930/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
