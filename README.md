@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedSobhy930/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MohamedSobhy930/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MohamedSobhy930/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MohamedSobhy930/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MohamedSobhy930/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Trie
 |  |
 | ------- |
