@@ -3,24 +3,19 @@ public class Solution {
         Array.Sort(nums1);
         Array.Sort(nums2);
         List<int> result = new List<int>();
-        int n = nums1.Length ;
-        int m = nums2.Length; 
-        int left1 = 0;
-        int left2 = 0;
-        while(left1 < n && left2 < m )
+        HashSet<int> resultSet = new HashSet<int>();
+        foreach(var num in nums1)
         {
-            if(nums1[left1] < nums2[left2])
-                left1++;
-            else if(nums1[left1] > nums2[left2])
-                left2++;
-            else 
+            if(!resultSet.Contains(num))
+                resultSet.Add(num);
+        }   
+        for(int i = 0 ; i < nums2.Length ; i++)
+        {
+            if(resultSet.Contains(nums2[i]))
             {
-                int curMatching = nums1[left1];
-                result.Add(curMatching);
-                while(left1 < n && nums1[left1] == curMatching) left1++;
-                while(left2 < m && nums2[left2] == curMatching) left2++;
+                result.Add(nums2[i]);
+                resultSet.Remove(nums2[i]);
             }
-
         }
         return result.ToArray();
     }
