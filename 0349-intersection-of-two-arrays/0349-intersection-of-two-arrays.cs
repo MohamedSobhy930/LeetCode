@@ -3,12 +3,7 @@ public class Solution {
         Array.Sort(nums1);
         Array.Sort(nums2);
         List<int> result = new List<int>();
-        HashSet<int> resultSet = new HashSet<int>();
-        foreach(var num in nums1)
-        {
-            if(!resultSet.Contains(num))
-                resultSet.Add(num);
-        }   
+        HashSet<int> resultSet = new HashSet<int>(nums1);   
         for(int i = 0 ; i < nums2.Length ; i++)
         {
             if(resultSet.Contains(nums2[i]))
