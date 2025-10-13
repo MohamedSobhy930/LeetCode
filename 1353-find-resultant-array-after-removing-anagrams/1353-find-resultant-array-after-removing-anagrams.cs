@@ -23,6 +23,6 @@ public class Solution {
     Array.Sort(a1);
     Array.Sort(a2);
 
-    return new string(a1) == new string(a2);
+    return a1.SequenceEqual(a2);
 }
 }
