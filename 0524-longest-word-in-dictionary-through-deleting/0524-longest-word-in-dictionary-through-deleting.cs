@@ -1,16 +1,18 @@
 public class Solution {
     public string FindLongestWord(string s, IList<string> dictionary)
 {
-    dictionary = dictionary
-        .OrderByDescending(x => x.Length)
-        .ThenBy(x => x)
-        .ToList();
+    string result = "";
     foreach (string word in dictionary)
     {
         if (isSubSequence(s ,word))
-            return word;
+        {
+            if(word.Length > result.Length)
+                result = word;
+            else if(word.Length == result.Length && string.Compare(word , result) < 0)
+                result = word;
+        }
     }
-    return "";
+    return result;
 }
 public bool isSubSequence(string s ,string word)
 {
