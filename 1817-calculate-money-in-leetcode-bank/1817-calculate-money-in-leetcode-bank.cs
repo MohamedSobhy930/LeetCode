@@ -6,7 +6,7 @@ public class Solution {
     int weeks = n / 7;
     for (int i = 2; i <= weeks; i++)
     {
-        int weakSum = 7 * (2 * i + 6 ) / 2;
+        int weakSum = 7 * i + 21;
         sum += weakSum;
     }
     n %= 7;
