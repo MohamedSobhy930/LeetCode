@@ -1,11 +1,13 @@
 public class Bank {
-    private readonly List<long> accounts;
+    private readonly long[] accounts;
+    private readonly int n;
     public Bank(long[] balance) {
-        accounts = new List<long>(balance);
+        accounts = balance;
+        n = accounts.Length;
     }
     
     public bool Transfer(int account1, int account2, long money) {
-        if(account1 > accounts.Count || account2 > accounts.Count) return false;
+        if(account1 > n || account2 > n) return false;
         if(accounts[account1-1] < money) return false;
         accounts[account1-1] -= money;
         accounts[account2-1] += money;
@@ -13,13 +15,13 @@ public class Bank {
     }
     
     public bool Deposit(int account, long money) {
-        if(account > accounts.Count) return false;
+        if(account > n) return false;
         accounts[account-1] += money;
         return true;
     }
     
     public bool Withdraw(int account, long money) {
-        if(account > accounts.Count) return false;
+        if(account > n) return false;
         if(accounts[account - 1] < money) return false;
         accounts[account -1] -= money;
         return true;
