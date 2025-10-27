@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/MohamedSobhy930/LeetCode/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedSobhy930/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedSobhy930/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/MohamedSobhy930/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedSobhy930/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3336-water-bottles-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/MohamedSobhy930/LeetCode/tree/master/3396-valid-word) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/MohamedSobhy930/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/MohamedSobhy930/LeetCode/tree/master/0054-spiral-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
 | ------- |
