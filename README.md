@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MohamedSobhy930/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohamedSobhy930/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/MohamedSobhy930/LeetCode/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohamedSobhy930/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MohamedSobhy930/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -387,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
