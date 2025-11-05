@@ -1,7 +1,6 @@
 public class Solution {
     public string FindValidPair(string s) {
         var freq = new Dictionary<char,int>();
-        string result = "";
         foreach(char c in s)
         {
             if(!freq.ContainsKey(c))
@@ -13,11 +12,7 @@ public class Solution {
             if(s[i] != s[i-1])
             {
                 if((s[i] - '0') == freq[s[i]] && (s[i - 1] - '0') == freq[s[i-1]])
-                    {
-                        result += s[i-1];
-                        result += s[i];
-                        return result;
-                    }
+                    return s.Substring(i-1,2);
             }
         }
         return "";
