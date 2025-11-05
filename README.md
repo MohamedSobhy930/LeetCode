@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/MohamedSobhy930/LeetCode/tree/master/3396-valid-word) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohamedSobhy930/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MohamedSobhy930/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/MohamedSobhy930/LeetCode/tree/master/0383-ransom-note) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
