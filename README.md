@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MohamedSobhy930/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedSobhy930/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/MohamedSobhy930/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/MohamedSobhy930/LeetCode/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedSobhy930/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MohamedSobhy930/LeetCode/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/MohamedSobhy930/LeetCode/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/MohamedSobhy930/LeetCode/tree/master/2169-simple-bank-system) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MohamedSobhy930/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MohamedSobhy930/LeetCode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohamedSobhy930/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
