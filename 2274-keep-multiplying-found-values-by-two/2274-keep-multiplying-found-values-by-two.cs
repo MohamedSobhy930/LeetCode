@@ -1,12 +1,10 @@
 public class Solution {
     public int FindFinalValue(int[] nums, int original) {
-        var map = new HashSet<int>(nums);
-        while(true)
+        Array.Sort(nums);
+        for(int i = 0; i < nums.Length ; i++)
         {
-            if(map.Contains(original))
+            if(nums[i] == original)
                 original *= 2;
-            else 
-                return original;
         }
         return original;
     }
