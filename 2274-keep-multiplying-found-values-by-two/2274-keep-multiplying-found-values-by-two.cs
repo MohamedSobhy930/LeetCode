@@ -1,11 +1,11 @@
 public class Solution {
     public int FindFinalValue(int[] nums, int original) {
-        Array.Sort(nums);
-        for(int i = 0; i < nums.Length ; i++)
+        while(true)
         {
-            if(nums[i] == original)
+            if(nums.Contains(original))
                 original *= 2;
+            else 
+                return original;
         }
-        return original;
     }
 }
