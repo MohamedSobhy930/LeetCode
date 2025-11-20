@@ -1,16 +1,19 @@
 public class Solution {
     public int[] SmallerNumbersThanCurrent(int[] nums) {
-        int[] result = new int[nums.Length];
-        for(int i = 0 ; i < nums.Length ; i++)
+        int n = nums.Length;
+        var numsCopy = (int[])nums.Clone();
+        Array.Sort(numsCopy);
+        var map = new Dictionary<int,int>();
+        for(int i = 0 ; i < n ; i++)
         {
-            int smallerNums = 0;
-            for(int j = 0 ; j < nums.Length ; j++)
-            {
-                if(i == j) continue;
-                if(nums[j] < nums[i])
-                    smallerNums++;
-            }
-            result[i] = smallerNums;
+            if(!map.ContainsKey(numsCopy[i]))
+                map[numsCopy[i]] = i;
+        }
+        int[] result = new int[n];
+        for(int i = 0 ; i < n ; i++)
+        {
+            if(map.ContainsKey(nums[i]))
+                result[i] = map[nums[i]];
         }
         return result;
     }
