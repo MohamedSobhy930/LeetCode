@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohamedSobhy930/LeetCode/tree/master/0054-spiral-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/MohamedSobhy930/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohamedSobhy930/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/MohamedSobhy930/LeetCode/tree/master/0155-min-stack) |
+| [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Union Find
 |  |
 | ------- |
