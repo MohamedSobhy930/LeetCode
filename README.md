@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedSobhy930/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MohamedSobhy930/LeetCode/tree/master/0155-min-stack) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedSobhy930/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedSobhy930/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Union Find
 |  |
 | ------- |
@@ -434,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedSobhy930/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
