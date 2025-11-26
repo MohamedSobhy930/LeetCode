@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/MohamedSobhy930/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedSobhy930/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/MohamedSobhy930/LeetCode/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/MohamedSobhy930/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohamedSobhy930/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MohamedSobhy930/LeetCode/tree/master/0155-min-stack) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedSobhy930/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/MohamedSobhy930/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedSobhy930/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Union Find
@@ -439,5 +441,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/MohamedSobhy930/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedSobhy930/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
