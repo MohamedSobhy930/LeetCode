@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/MohamedSobhy930/LeetCode/tree/master/2169-simple-bank-system) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MohamedSobhy930/LeetCode/tree/master/0054-spiral-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/MohamedSobhy930/LeetCode/tree/master/1642-water-bottles) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/MohamedSobhy930/LeetCode/tree/master/2169-simple-bank-system) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MohamedSobhy930/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedSobhy930/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Union Find
 |  |
 | ------- |
@@ -448,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/MohamedSobhy930/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/MohamedSobhy930/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedSobhy930/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
