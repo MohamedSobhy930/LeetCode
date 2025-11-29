@@ -1,6 +1,10 @@
 public class Solution {
     public int MinOperations(int[] nums, int k) {
-        int sum = nums.Sum();
+        int sum = 0;
+        for(int i = 0 ; i < nums.Length; i++)
+        {
+            sum += nums[i];
+        }
         return sum % k;
     }
 }
