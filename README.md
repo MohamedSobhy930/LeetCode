@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohamedSobhy930/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/MohamedSobhy930/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedSobhy930/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MohamedSobhy930/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3606-coupon-code-validator](https://github.com/MohamedSobhy930/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Linked List
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/MohamedSobhy930/LeetCode/tree/master/3396-valid-word) |
+| [3606-coupon-code-validator](https://github.com/MohamedSobhy930/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedSobhy930/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohamedSobhy930/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/MohamedSobhy930/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
