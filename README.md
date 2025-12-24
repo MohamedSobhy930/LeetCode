@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedSobhy930/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MohamedSobhy930/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MohamedSobhy930/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohamedSobhy930/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MohamedSobhy930/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MohamedSobhy930/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedSobhy930/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MohamedSobhy930/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MohamedSobhy930/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/MohamedSobhy930/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Linked List
 |  |
