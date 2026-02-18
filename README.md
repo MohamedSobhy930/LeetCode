@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MohamedSobhy930/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/MohamedSobhy930/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohamedSobhy930/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
