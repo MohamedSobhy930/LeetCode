@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/MohamedSobhy930/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2169-simple-bank-system](https://github.com/MohamedSobhy930/LeetCode/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedSobhy930/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/MohamedSobhy930/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/MohamedSobhy930/LeetCode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohamedSobhy930/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -491,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/MohamedSobhy930/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
