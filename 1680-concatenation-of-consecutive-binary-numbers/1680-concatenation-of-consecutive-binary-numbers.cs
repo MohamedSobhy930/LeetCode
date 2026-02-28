@@ -3,10 +3,11 @@ public class Solution {
         int modulo = 1_000_000_007;
         int i = 1; 
         long result = 0;
+        int bitLength = 0;
         while(i <= n)
         {
-            string s = Convert.ToString(i , 2);
-            result <<= s.Length ;
+            if((i & (i - 1)) == 0) bitLength++;
+            result <<= bitLength ;
             result |= i;
             result %= modulo;
             i++;
