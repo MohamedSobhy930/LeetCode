@@ -1,17 +1,10 @@
 public class Solution {
     public string FindDifferentBinaryString(string[] nums) {
-       HashSet<string> allStrings = new HashSet<string>();
-       int n = Convert.ToInt32(Math.Pow(2 , nums.Length));
-       for(int i = 0 ; i < n ; i++)
+       StringBuilder result = new StringBuilder();
+       for(int i = 0 , j = 0 ; i < nums.Length ; i++, j++)
        {
-        string s = Convert.ToString(i , 2).PadLeft(nums.Length , '0');
-        allStrings.Add(s);
-       } 
-       for(int i = 0 ; i < nums.Length ; i++)
-       {
-        if(allStrings.Contains(nums[i]))
-            allStrings.Remove(nums[i]);
+        result.Append(nums[i][j] == '1' ? '0' : '1');
        }
-       return allStrings.First();
+       return result.ToString();
     }
 }
