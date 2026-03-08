@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MohamedSobhy930/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1980-find-unique-binary-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MohamedSobhy930/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1980-find-unique-binary-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/MohamedSobhy930/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1980-find-unique-binary-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/MohamedSobhy930/LeetCode/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedSobhy930/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -517,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedSobhy930/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
