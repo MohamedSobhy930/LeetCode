@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/MohamedSobhy930/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohamedSobhy930/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/MohamedSobhy930/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohamedSobhy930/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MohamedSobhy930/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/MohamedSobhy930/LeetCode/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/MohamedSobhy930/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/MohamedSobhy930/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Stack
