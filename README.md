@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedSobhy930/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedSobhy930/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/MohamedSobhy930/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedSobhy930/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedSobhy930/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohamedSobhy930/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/MohamedSobhy930/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MohamedSobhy930/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohamedSobhy930/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedSobhy930/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/MohamedSobhy930/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedSobhy930/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MohamedSobhy930/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MohamedSobhy930/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/MohamedSobhy930/LeetCode/tree/master/1046-last-stone-weight) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/MohamedSobhy930/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Stack
 |  |
