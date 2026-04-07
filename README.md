@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MohamedSobhy930/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MohamedSobhy930/LeetCode/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/MohamedSobhy930/LeetCode/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
