@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/MohamedSobhy930/LeetCode/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0831-masking-personal-information](https://github.com/MohamedSobhy930/LeetCode/tree/master/0831-masking-personal-information) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MohamedSobhy930/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
