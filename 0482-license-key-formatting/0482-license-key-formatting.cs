@@ -1,29 +1,21 @@
 public class Solution {
     public string LicenseKeyFormatting(string s, int k) {
-        string ss = "";
-        foreach(char c in s)
-        {
-            if(c == '-') continue;
-            if(c >= 'a') 
-                ss += Char.ToUpper(c);
-            else 
-                ss += c;
-        }
+        int groupLength = 0;
         StringBuilder result = new StringBuilder();
-        int firstGroup = ss.Length % k ;
-        if(firstGroup > 0)
+        for(int i = s.Length-1 ; i >= 0; i--)
         {
-            result.Append(ss.Substring(0,firstGroup));
-            result.Append("-");
+            if(s[i] == '-') continue;
+            if(groupLength == k)
+            {
+                result.Append("-");
+                groupLength = 0;
+            }
+
+            result.Append(Char.ToUpper(s[i]));
+            groupLength++;
         }
-        int i = firstGroup;
-        while(i < ss.Length)
-        {
-            result.Append(ss.Substring(i , k));
-            result.Append("-");
-            i += k;
-        }
-        
-        return result.ToString().Trim('-');
+        char[] res = result.ToString().ToCharArray();
+        Array.Reverse(res);
+        return new string(res);
     }
 }
