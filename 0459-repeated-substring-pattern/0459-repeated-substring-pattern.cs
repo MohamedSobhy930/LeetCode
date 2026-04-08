@@ -1,11 +1,9 @@
 public class Solution {
     public bool RepeatedSubstringPattern(string s) {
 
-        StringBuilder ss = new StringBuilder(s+s);
-        ss.Remove(0,1);
-        ss.Length--;
+        string ss = s+s;
+        string res = ss.Substring(1 , ss.Length - 2);
 
-        
-        return ss.ToString().Contains(s);
+        return res.Contains(s);
     }
 }
