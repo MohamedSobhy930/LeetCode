@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/MohamedSobhy930/LeetCode/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0796-rotate-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/MohamedSobhy930/LeetCode/tree/master/0831-masking-personal-information) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/MohamedSobhy930/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
