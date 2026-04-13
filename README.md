@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MohamedSobhy930/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedSobhy930/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/MohamedSobhy930/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MohamedSobhy930/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
