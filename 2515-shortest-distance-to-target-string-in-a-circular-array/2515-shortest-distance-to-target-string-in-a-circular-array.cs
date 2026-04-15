@@ -1,19 +1,18 @@
 public class Solution {
     public int ClosestTarget(string[] words, string target, int startIndex) {
-        // if(words[startIndex] == target) return startIndex;
+        int minDistance = int.MaxValue;
         int n = words.Length;
-        int toward = 0;
-        int backward = 0;
-        int i = startIndex;
-        while(words[i++ % n] != target)
+        int i = 0;
+        while(i < n)
         {
-            if(i == n + startIndex)
-                return -1;
-            toward++;
+            if(words[i] == target)
+            {
+                int forwardDis = Math.Abs(i - startIndex);
+                int minDis = Math.Min(forwardDis , n - forwardDis);
+                minDistance = Math.Min(minDis , minDistance);
+            }
+            i++;
         }
-        i = startIndex;
-        while(words[(i-- + n) % n] != target)
-            backward++;
-        return Math.Min(toward , backward);
+        return minDistance == int.MaxValue ? -1 : minDistance;
     }
 }
