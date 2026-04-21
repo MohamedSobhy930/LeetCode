@@ -3,8 +3,8 @@ public class NumMatrix {
     public NumMatrix(int[][] matrix) {
         int m = matrix.Length;
         int n = matrix[0].Length;
-        prefix = new int[m][];
-        for (int i = 0; i < m; i++) 
+        prefix = new int[m+1][];
+        for (int i = 0; i <= m; i++) 
         {
             prefix[i] = new int[n + 1]; 
         }
@@ -12,20 +12,13 @@ public class NumMatrix {
         {
             for(int j = 0 ; j < matrix[0].Length ; j++)
             {
-                prefix[i][j+1] = prefix[i][j] + matrix[i][j];
+                prefix[i+1][j+1] = matrix[i][j] + prefix[i+1][j] + prefix[i][j+1] - prefix[i][j];
             }
         }
     }
     
     public int SumRegion(int row1, int col1, int row2, int col2) {
-        int sum = 0; 
-        int i = row1;
-        while(i <= row2)
-        {
-            sum += prefix[i][col2+1] - prefix[i][col1];
-            i++;
-        }
-        return sum;
+        return prefix[row2+1][col2+1] - prefix[row2+1][col1] - prefix[row1][col2+1] + prefix[row1][col1];
     }
 }
 
