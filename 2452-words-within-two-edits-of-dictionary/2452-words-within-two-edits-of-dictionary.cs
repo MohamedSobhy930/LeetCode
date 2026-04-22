@@ -14,6 +14,8 @@ public class Solution {
             {
                 if(s[k] != ss[k])
                     diff++;
+                if(diff > 2)
+                    break;
                 k++;
             }
             if(diff <= 2)
