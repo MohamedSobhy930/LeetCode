@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MohamedSobhy930/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/MohamedSobhy930/LeetCode/tree/master/2615-sum-of-distances) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MohamedSobhy930/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MohamedSobhy930/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MohamedSobhy930/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/MohamedSobhy930/LeetCode/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedSobhy930/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2615-sum-of-distances](https://github.com/MohamedSobhy930/LeetCode/tree/master/2615-sum-of-distances) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohamedSobhy930/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/MohamedSobhy930/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/MohamedSobhy930/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohamedSobhy930/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/MohamedSobhy930/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2615-sum-of-distances](https://github.com/MohamedSobhy930/LeetCode/tree/master/2615-sum-of-distances) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MohamedSobhy930/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohamedSobhy930/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MohamedSobhy930/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
