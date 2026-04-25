@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedSobhy930/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/MohamedSobhy930/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/MohamedSobhy930/LeetCode/tree/master/1046-last-stone-weight) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/MohamedSobhy930/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MohamedSobhy930/LeetCode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/MohamedSobhy930/LeetCode/tree/master/0561-array-partition) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohamedSobhy930/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1448-maximum-69-number) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/MohamedSobhy930/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/MohamedSobhy930/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohamedSobhy930/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
