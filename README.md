@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MohamedSobhy930/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/MohamedSobhy930/LeetCode/tree/master/0561-array-partition) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedSobhy930/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedSobhy930/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/MohamedSobhy930/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MohamedSobhy930/LeetCode/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/MohamedSobhy930/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohamedSobhy930/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1448-maximum-69-number) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/MohamedSobhy930/LeetCode/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MohamedSobhy930/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/MohamedSobhy930/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/MohamedSobhy930/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MohamedSobhy930/LeetCode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/MohamedSobhy930/LeetCode/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
