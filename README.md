@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MohamedSobhy930/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedSobhy930/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/MohamedSobhy930/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0912-sort-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0912-sort-an-array) |
 | [0940-fruit-into-baskets](https://github.com/MohamedSobhy930/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/MohamedSobhy930/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/MohamedSobhy930/LeetCode/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0912-sort-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/MohamedSobhy930/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedSobhy930/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/MohamedSobhy930/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohamedSobhy930/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/MohamedSobhy930/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/MohamedSobhy930/LeetCode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohamedSobhy930/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MohamedSobhy930/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0912-sort-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/MohamedSobhy930/LeetCode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/MohamedSobhy930/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/MohamedSobhy930/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -577,4 +582,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/MohamedSobhy930/LeetCode/tree/master/1980-find-unique-binary-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
