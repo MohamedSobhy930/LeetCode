@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MohamedSobhy930/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MohamedSobhy930/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/MohamedSobhy930/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/MohamedSobhy930/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MohamedSobhy930/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MohamedSobhy930/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MohamedSobhy930/LeetCode/tree/master/0055-jump-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/MohamedSobhy930/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohamedSobhy930/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/MohamedSobhy930/LeetCode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohamedSobhy930/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedSobhy930/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/0189-rotate-array) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MohamedSobhy930/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/MohamedSobhy930/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohamedSobhy930/LeetCode/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MohamedSobhy930/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MohamedSobhy930/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
