@@ -19,6 +19,7 @@ public class Solution {
             cur = cur.next;
             count++;
         }
+        ListNode lastNode = cur;
         k = k % (count + 1);
         if(k == 0) return head;
         cur = head;
@@ -30,12 +31,7 @@ public class Solution {
         }
         ListNode newHead = cur.next;
         cur.next = null;
-        cur = newHead;
-        while(cur.next != null)
-        {
-            cur = cur.next;
-        }
-        cur.next = head;
+        lastNode.next = head;
         head = newHead;
         return head;
     }
