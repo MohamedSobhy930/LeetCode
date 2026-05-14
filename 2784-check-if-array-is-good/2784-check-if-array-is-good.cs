@@ -1,13 +1,18 @@
 public class Solution {
     public bool IsGood(int[] nums) {
-        Array.Sort(nums);
         int n = nums.Length ;
-        if(nums[n - 1] + 1 != n) return false;
-        for(int i = 0 ; i < n ;i++)
+        int maxNum = n - 1;
+        int[] freq = new int[maxNum + 1];
+        for(int i = 0 ; i < n ; i++)
         {
-            if(nums[i] != i + 1 && i != n - 1) return false;
-            else if(i == n - 1 && nums[i] == i) return true;
+            if(nums[i] > maxNum) return false;
+            freq[nums[i]]++;
         }
+        for(int i = 1 ; i < maxNum ;i++)
+        {
+            if(freq[i] != 1) return false;
+        }
+        if(freq[maxNum] != 2) return false;
         return true;
     }
 }
