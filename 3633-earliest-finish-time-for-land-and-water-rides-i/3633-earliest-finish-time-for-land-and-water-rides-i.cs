@@ -10,18 +10,18 @@ public class Solution {
         {
             minWaterEnd = Math.Min(minWaterEnd , waterStartTime[i] + waterDuration[i]);
         }
-        int landStarts = int.MaxValue;
+        int landFirstFinish = int.MaxValue;
         for(int i = 0 ; i < waterStartTime.Length; i++)
         {
             int finish = Math.Max(minLandEnd , waterStartTime[i]) + waterDuration[i];
-            landStarts = Math.Min(landStarts, finish);
+            landFirstFinish = Math.Min(landFirstFinish, finish);
         }
-        int waterStarts = int.MaxValue;
+        int waterFirstFinish = int.MaxValue;
         for(int i = 0 ; i < landStartTime.Length; i++)
         {
             int finish = Math.Max(minWaterEnd , landStartTime[i]) + landDuration[i];
-            waterStarts = Math.Min(waterStarts, finish);
+            waterFirstFinish = Math.Min(waterFirstFinish, finish);
         }
-        return Math.Min(landStarts , waterStarts);
+        return Math.Min(landFirstFinish , waterFirstFinish);
     }
 }
