@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedSobhy930/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MohamedSobhy930/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/MohamedSobhy930/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/MohamedSobhy930/LeetCode/tree/master/2615-sum-of-distances) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MohamedSobhy930/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/MohamedSobhy930/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/MohamedSobhy930/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohamedSobhy930/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/MohamedSobhy930/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/MohamedSobhy930/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/MohamedSobhy930/LeetCode/tree/master/2615-sum-of-distances) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MohamedSobhy930/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohamedSobhy930/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
