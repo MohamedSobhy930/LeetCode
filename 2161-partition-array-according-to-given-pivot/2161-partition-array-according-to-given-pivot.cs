@@ -1,23 +1,25 @@
 public class Solution {
     public int[] PivotArray(int[] nums, int pivot) {
-       LinkedList<int> leftPivot = new LinkedList<int>();
-       LinkedList<int> rightPivot = new LinkedList<int>(); 
        int n = nums.Length;
+       int index = 0;
+       int[] result = new int[n];
+       List<int> pivotFreq = new List<int>();
         for(int i = 0 ; i < n ; i++)
         {
             if(nums[i] < pivot) 
-                leftPivot.AddLast(nums[i]);
-            else if(nums[i] > pivot)
-                rightPivot.AddLast(nums[i]);
-            else 
-                rightPivot.AddFirst(nums[i]);
+                result[index++] = nums[i];
+            else if(nums[i] == pivot)
+                pivotFreq.Add(nums[i]);
         }
-        foreach(int num in rightPivot)
+        foreach(int num in pivotFreq)
         {
-            leftPivot.AddLast(num);
+            result[index++] = num;
         }
-        int[] result = new int[n];
-        leftPivot.CopyTo(result,0);
+        for(int i = 0 ; i < n ; i++)
+        {
+            if(nums[i] > pivot) 
+                result[index++] = nums[i];
+        }
         return result;
     }
 }
